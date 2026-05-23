@@ -1,7 +1,11 @@
-# Python Mini Lottery 
-Small beginner Python project created while learning programming fundamentals.  
+# Python Mini Lottery
+
+A small beginner Python project created while learning programming fundamentals and basic game logic.
+
 ## Features
--  Simple user input
--  Basic game logic
- ## Goals
- - Practice Python basics and logical thinking.
+- Simple user input
+- Random number generation
+- Basic game logic
+
+## Goal
+Practice Python basics and logical thinking.
